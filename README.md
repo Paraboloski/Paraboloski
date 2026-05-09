@@ -1,50 +1,29 @@
-# 👋 Ciao, sono Petry
+# Hi there 👋
 
-## 💻 Software Developer
+I'm <u>Andrea</u>, a Software Engineer based in Italy.
 
-Sviluppatore appassionato di tecnologia, automazione e sviluppo software moderno.  
-Mi piace costruire progetti puliti, scalabili e ben strutturati, con particolare attenzione alle performance e all’esperienza utente.
+## 🛠 Tech Stack
 
----
-
-## 🚀 Tech Stack
-
-### 👨‍💻 Linguaggi
+### Languages & Frameworks
 - JavaScript / TypeScript
+- Java (Spring Boot)
+- Go (Fiber)
 - Python
-- PHP
-- SQL
-- HTML / CSS
 
-### ⚙️ Framework & Tools
-- Node.js
-- React
-- Next.js
-- Express
-- Git & GitHub
-- Docker
-- REST APIs
+### DevOps & Infrastructure
+- CI/CD with Jenkins & GitHub Actions
+- Docker & Kubernetes (Kind)
 
-### 🛠️ Ambiente di lavoro
-- Linux
-- VS Code
-- Git Flow
-- CLI / Terminal-first workflow
+### Cloud
+- AWS
 
----
-
-## 📌 Cosa mi interessa
-
-- Web Development
-- Backend Architecture
-- Automazione
-- Open Source
-- AI Tools & Integrations
-- Performance Optimization
-
----
-
-## 📈 GitHub Stats
-
-```txt
-Clean code > clever code
+## 👨‍💻 What I Do
+- Full Stack Development
+- DevOps & Platform Engineering
+- Cloud Infrastructure Automation
+- CI/CD Pipeline Design
+- Containerized Application Deployment
+  
+## 📫 Contact
+- GitHub: https://github.com/Paraboloski
+- Email: andreapetracca155@gmail.com
