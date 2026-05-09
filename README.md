@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Ciao, sono Petry
 
-<!--
-**Paraboloski/Paraboloski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Developer
 
-Here are some ideas to get you started:
+Sviluppatore appassionato di tecnologia, automazione e sviluppo software moderno.  
+Mi piace costruire progetti puliti, scalabili e ben strutturati, con particolare attenzione alle performance e all’esperienza utente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Linguaggi
+- JavaScript / TypeScript
+- Python
+- PHP
+- SQL
+- HTML / CSS
+
+### ⚙️ Framework & Tools
+- Node.js
+- React
+- Next.js
+- Express
+- Git & GitHub
+- Docker
+- REST APIs
+
+### 🛠️ Ambiente di lavoro
+- Linux
+- VS Code
+- Git Flow
+- CLI / Terminal-first workflow
+
+---
+
+## 📌 Cosa mi interessa
+
+- Web Development
+- Backend Architecture
+- Automazione
+- Open Source
+- AI Tools & Integrations
+- Performance Optimization
+
+---
+
+## 📈 GitHub Stats
+
+```txt
+Clean code > clever code
