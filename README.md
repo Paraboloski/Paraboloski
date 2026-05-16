@@ -3,9 +3,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-Backend Software Engineer based in Italy, focused on building **scalable, resilient and cloud-native systems**.
-I specialize in backend architectures, distributed systems, and platform engineering with a strong focus on reliability, performance, and maintainability.
+I am a Full-Stack Developer based in Italy, with a strong specialization in backend engineering and DevOps practices. My work revolves around developing robust and scalable backend architectures, implementing efficient CI/CD pipelines, and managing cloud-native, distributed environments.
 
 - 👉 [View CV](curriculum.pdf)
 - 👉 [View Portfolio](https://paraboloski.github.io/portfolio)
@@ -31,19 +29,10 @@ I specialize in backend architectures, distributed systems, and platform enginee
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Data & Infra
+### Data & Infrastructure
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-
----
-
-## 🚀 What I Do
-
-- API-first architectures  
-- Scalable backend systems
-- Automation & deployment pipelines  
-- Cloud-native distributed applications  
 
 ---
 
