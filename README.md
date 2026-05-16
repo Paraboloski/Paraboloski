@@ -53,14 +53,8 @@ I specialize in backend architectures, distributed systems, and platform enginee
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 - Email: **andreapetracca155@gmail.com**  
 - GitHub: https://github.com/Paraboloski  
 - LinkedIn: https://www.linkedin.com/in/andrea-petracca-68a732409/
-
----
-
-<p align="center">
-  <i>Building scalable systems, one service at a time.</i>
-</p>
