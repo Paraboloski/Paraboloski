@@ -64,5 +64,5 @@ I specialize in backend architectures, distributed systems, and platform enginee
 
 You can view my full profile here:
 
-- 👉 [Open PDF](curriculum.pdf)
+- 👉 [View CV](curriculum.pdf)
 - 👉 [View Portfolio](https://github.com/USERNAME/portfolio)
