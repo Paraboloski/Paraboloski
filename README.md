@@ -53,9 +53,10 @@ I specialize in backend architectures, distributed systems, and platform enginee
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Paraboloski&theme=tokyonight" />
 </p>
--->
+
 
 ---
+-->
 
 ## 📫 Contact Me
 - Email: **andreapetracca155@gmail.com**  
