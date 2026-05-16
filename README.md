@@ -45,11 +45,13 @@ I specialize in backend architectures, distributed systems, and platform enginee
 
 ---
 
+<!--
 ## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Paraboloski&theme=tokyonight" />
 </p>
+-->
 
 ---
 
