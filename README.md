@@ -35,13 +35,12 @@ I specialize in backend architectures, distributed systems, and platform enginee
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Do
 
-- Scalable backend systems  
-- Cloud-native distributed applications  
 - API-first architectures  
+- Scalable backend systems
 - Automation & deployment pipelines  
-- High-reliability microservices ecosystems  
+- Cloud-native distributed applications  
 
 ---
 
