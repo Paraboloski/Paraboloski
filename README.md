@@ -65,4 +65,4 @@ I’m a Full-Stack Developer based in Italy, mainly focused on backend developme
 ## 📫 Contact Me
 - Email: **andreapetracca155@gmail.com**  
 - GitHub: https://github.com/Paraboloski  
-- LinkedIn: https://www.linkedin.com/in/andrea-petracca-68a732409/
+- LinkedIn: https://www.linkedin.com/in/andrea-petracca
