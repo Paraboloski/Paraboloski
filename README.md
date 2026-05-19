@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 I’m a Full-Stack Developer based in Italy, mainly focused on backend development and DevOps. My work focuses on developing scalable and robust applications, automation workflows, and cloud-native infrastructures.
 
-- 👉 [View CV](curriculum.pdf)
+- 👉 [View CV](Curriculum.pdf)
 - 👉 [View Portfolio](https://paraboloski.github.io/portfolio)
   
 ---
